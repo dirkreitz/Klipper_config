@@ -1,2 +1,4 @@
-*.bkp
+.vscode/
 variables.cfg
+printer*.cfg
+*.bkp
