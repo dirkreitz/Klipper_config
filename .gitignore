@@ -1,4 +1,5 @@
 .vscode/
+.DS_Store
 variables.cfg
 printer*.cfg
 printer.cfg
